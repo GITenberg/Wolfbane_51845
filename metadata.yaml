@@ -1,0 +1,49 @@
+_repo: Wolfbane_51845
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wood, Wallace
+    alias: Wood, Wally
+    birthdate: 1927
+    deathdate: 1981
+    gutenberg_agent_id: '32276'
+    url: http://www.gutenberg.org/2009/agents/32276
+    wikipedia: http://en.wikipedia.org/wiki/Wally_Wood
+creator:
+  authors:
+  - agent_name: Kornbluth, C. M. (Cyril M.)
+    aliases:
+    - Kornbluth, Cyril M.
+    - Eisner, Simon
+    birthdate: 1923
+    deathdate: 1958
+    gutenberg_agent_id: '34039'
+    url: http://www.gutenberg.org/2009/agents/34039
+    wikipedia: http://en.wikipedia.org/wiki/Cyril_M._Kornbluth
+  - agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederick
+    - Pohl, Frederik George, Jr.
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Wolfbane
+url: http://www.gutenberg.org/ebooks/51845
